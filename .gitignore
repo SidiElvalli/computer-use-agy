@@ -1,0 +1,7 @@
+# Backup and temporary files
+scripts/backup_*/
+*.pdb
+*.user
+*.suo
+.DS_Store
+Thumbs.db
